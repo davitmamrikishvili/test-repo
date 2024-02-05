@@ -1,5 +1,5 @@
-Lorem Ipsum was simply dummy text of the 
-print and typesetting industry. 
+this line is changed in 2nd folder. Lorem Ipsum was simply dummy text of the 
+print and typesetting industry. this one in 2nd too.
 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
 when an unknown printer took a galley of 
 type and scrambled it to make a type specimen book. 
